@@ -1,7 +1,13 @@
-import javax.swing.plaf.synth.SynthScrollBarUI;
+
 
 public class Main {
-System.out.println("Hello, World!");
-    SynthScrollBarUI synthScrollBarUI = new SynthScrollBarUI();
-    System.out.println("SynthScrollBarUI instance created: " + synthScrollBarUI);
+
+    public static void main(String[] args) {
+        // Create an instance of SynthScrollBarUI
+       
+        System.out.println("Hello, World!");
+        // Print a message to confirm creation
+       
+    }
+    
 }
