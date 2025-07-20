@@ -7,6 +7,7 @@ public class Main {
        
         System.out.println("Hello, World!");
         // Print a message to confirm creation
+        System.out.println("Hello, World 2!");
        
     }
     
